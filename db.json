@@ -1,4 +1,5 @@
-[
+{
+  "knowledgeBaseList": [
   {
     "id": 1,
     "knowledgeBaseName": "集具住将山",
@@ -291,3 +292,5 @@
     "updateTime": "2004-03-23 03:51:57"
   }
 ]
+
+}
