@@ -1,0 +1,293 @@
+[
+  {
+    "id": 1,
+    "knowledgeBaseName": "集具住将山",
+    "knowledgeBaseType": "dynamicForm",
+    "knowledgeBaseTypeName": "语料知识库",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [
+      {
+        "id": 1,
+        "tagName": "华北"
+      },
+      {
+        "id": 2,
+        "tagName": "华北"
+      }
+    ],
+    "createBy": "高丽",
+    "updateBy": "郝娟",
+    "createTime": "1982-08-22 17:27:47",
+    "updateTime": "2006-02-28 21:16:46"
+  },
+  {
+    "id": 2,
+    "knowledgeBaseName": "关建应圆局于满",
+    "knowledgeBaseType": "corpusKnowledge",
+    "knowledgeBaseTypeName": "语料知识库",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [],
+    "createBy": "秦明",
+    "updateBy": "江勇",
+    "createTime": "2011-09-04 08:43:14",
+    "updateTime": "2006-03-13 03:34:28"
+  },
+  {
+    "id": 3,
+    "knowledgeBaseName": "容斯分空属",
+    "knowledgeBaseType": "faq",
+    "knowledgeBaseTypeName": "动态表单",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [
+      {
+        "id": 3,
+        "tagName": "西南"
+      },
+      {
+        "id": 4,
+        "tagName": "华中"
+      }
+    ],
+    "createBy": "贾霞",
+    "updateBy": "赖勇",
+    "createTime": "1999-11-05 12:16:15",
+    "updateTime": "2019-01-03 03:52:00"
+  },
+  {
+    "id": 4,
+    "knowledgeBaseName": "厂存期连",
+    "knowledgeBaseType": "corpusKnowledge",
+    "knowledgeBaseTypeName": "动态表单",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [
+      {
+        "id": 5,
+        "tagName": "西北"
+      }
+    ],
+    "createBy": "尹秀兰",
+    "updateBy": "秦强",
+    "createTime": "1970-01-02 13:47:50",
+    "updateTime": "1991-09-30 19:06:07"
+  },
+  {
+    "id": 5,
+    "knowledgeBaseName": "政意七的场地",
+    "knowledgeBaseType": "faq",
+    "knowledgeBaseTypeName": "动态表单",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [
+      {
+        "id": 6,
+        "tagName": "西南"
+      },
+      {
+        "id": 7,
+        "tagName": "华东"
+      }
+    ],
+    "createBy": "江秀英",
+    "updateBy": "孔秀兰",
+    "createTime": "1994-03-28 14:46:53",
+    "updateTime": "1999-06-20 10:26:10"
+  },
+  {
+    "id": 6,
+    "knowledgeBaseName": "派划二体际断",
+    "knowledgeBaseType": "corpusKnowledge",
+    "knowledgeBaseTypeName": "FAQ知识库",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [
+      {
+        "id": 8,
+        "tagName": "华东"
+      },
+      {
+        "id": 9,
+        "tagName": "华中"
+      }
+    ],
+    "createBy": "侯静",
+    "updateBy": "武强",
+    "createTime": "2020-03-01 02:48:31",
+    "updateTime": "2003-09-21 04:28:36"
+  },
+  {
+    "id": 7,
+    "knowledgeBaseName": "广从相走北你",
+    "knowledgeBaseType": "faq",
+    "knowledgeBaseTypeName": "动态表单",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [
+      {
+        "id": 10,
+        "tagName": "华北"
+      },
+      {
+        "id": 11,
+        "tagName": "西南"
+      },
+      {
+        "id": 12,
+        "tagName": "华北"
+      }
+    ],
+    "createBy": "孔磊",
+    "updateBy": "朱强",
+    "createTime": "1985-12-12 13:36:12",
+    "updateTime": "1975-02-27 06:48:55"
+  },
+  {
+    "id": 8,
+    "knowledgeBaseName": "江行如然群等易",
+    "knowledgeBaseType": "corpusKnowledge",
+    "knowledgeBaseTypeName": "语料知识库",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [
+      {
+        "id": 13,
+        "tagName": "华南"
+      }
+    ],
+    "createBy": "于娜",
+    "updateBy": "万秀兰",
+    "createTime": "2008-01-25 10:05:36",
+    "updateTime": "2016-03-22 11:55:14"
+  },
+  {
+    "id": 9,
+    "knowledgeBaseName": "打众习世只",
+    "knowledgeBaseType": "corpusKnowledge",
+    "knowledgeBaseTypeName": "动态表单",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [
+      {
+        "id": 14,
+        "tagName": "东北"
+      },
+      {
+        "id": 15,
+        "tagName": "华北"
+      }
+    ],
+    "createBy": "吕敏",
+    "updateBy": "吕强",
+    "createTime": "1990-12-17 12:58:18",
+    "updateTime": "1999-08-10 17:59:31"
+  },
+  {
+    "id": 10,
+    "knowledgeBaseName": "选委任件",
+    "knowledgeBaseType": "dynamicForm",
+    "knowledgeBaseTypeName": "语料知识库",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [],
+    "createBy": "陆秀英",
+    "updateBy": "尹艳",
+    "createTime": "2015-12-08 14:25:57",
+    "updateTime": "2000-09-10 03:22:25"
+  },
+  {
+    "id": 11,
+    "knowledgeBaseName": "用力养细周务",
+    "knowledgeBaseType": "dynamicForm",
+    "knowledgeBaseTypeName": "动态表单",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [
+      {
+        "id": 16,
+        "tagName": "华中"
+      }
+    ],
+    "createBy": "黎洋",
+    "updateBy": "郝静",
+    "createTime": "1996-08-10 11:44:19",
+    "updateTime": "2009-08-03 21:30:38"
+  },
+  {
+    "id": 12,
+    "knowledgeBaseName": "养出达",
+    "knowledgeBaseType": "corpusKnowledge",
+    "knowledgeBaseTypeName": "静态表单",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [
+      {
+        "id": 17,
+        "tagName": "东北"
+      }
+    ],
+    "createBy": "武芳",
+    "updateBy": "孔霞",
+    "createTime": "1999-03-20 11:32:36",
+    "updateTime": "2008-11-12 01:51:27"
+  },
+  {
+    "id": 13,
+    "knowledgeBaseName": "温义铁",
+    "knowledgeBaseType": "corpusKnowledge",
+    "knowledgeBaseTypeName": "静态表单",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [
+      {
+        "id": 18,
+        "tagName": "西南"
+      },
+      {
+        "id": 19,
+        "tagName": "华北"
+      }
+    ],
+    "createBy": "梁娜",
+    "updateBy": "彭霞",
+    "createTime": "2013-12-25 23:17:02",
+    "updateTime": "1982-04-22 16:44:00"
+  },
+  {
+    "id": 14,
+    "knowledgeBaseName": "号美京路",
+    "knowledgeBaseType": "corpusKnowledge",
+    "knowledgeBaseTypeName": "语料知识库",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [],
+    "createBy": "魏娟",
+    "updateBy": "李洋",
+    "createTime": "1992-02-02 14:29:01",
+    "updateTime": "2005-10-31 01:36:49"
+  },
+  {
+    "id": 15,
+    "knowledgeBaseName": "铁片车便打人日",
+    "knowledgeBaseType": "dynamicForm",
+    "knowledgeBaseTypeName": "静态表单",
+    "knowledgeBaseDept": "7_2",
+    "knowledgeBaseDeptName": "渠道运营组",
+    "knowledgeBaseTags": [
+      {
+        "id": 20,
+        "tagName": "华中"
+      },
+      {
+        "id": 21,
+        "tagName": "东北"
+      }
+    ],
+    "createBy": "石丽",
+    "updateBy": "姜艳",
+    "createTime": "1972-09-03 04:53:18",
+    "updateTime": "2004-03-23 03:51:57"
+  }
+]
